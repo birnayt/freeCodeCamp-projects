@@ -4,13 +4,21 @@ https://www.freecodecamp.org/learn
 
 Responsive Web Design:
 
-1/5 Tribute Page - https://codepen.io/birnayt/pen/gOaPzBe
+Product Landing Page - https://codepen.io/birnayt/pen/LYpGmBb
+<img src="responsive-web-design/Screenshot_2020-06-05 Original Trombones.png" alt="Original Trombones Page">
+<hr>
+Personal Portfolio Page - https://codepen.io/birnayt/pen/GRpqNVP
+<img src="responsive-web-design/Screenshot_2020-06-05 Personal Portfolio.png" alt="Personal Portfolio Page">
+<hr>
+Survey Form  - https://codepen.io/birnayt/pen/gOaPzBe
+<img src="responsive-web-design/Screenshot_2020-06-05 FCC Survey Form.png" alt="Survey Form">
+<hr>
+Tribute Page - https://codepen.io/birnayt/pen/gOaPzBe
+<img src="responsive-web-design/responsive-web-design/Screenshot_2020-06-05 Carl Friedrich Gauss.png alt="Gauss Tribute Page">                                                                                                
+<hr>
+Technical Documentation Page - https://codepen.io/birnayt/pen/ExVKGeY
+<img src="responsive-web-design/Screenshot_2020-06-05 JS Documentation.png> alt="JS Documentation">
+                                                                                            
+                                                                              
 
-2/5 Survey Form  - https://codepen.io/birnayt/pen/gOaPzBe
-
-3/5 Product Landing Page - https://codepen.io/birnayt/pen/LYpGmBb
-
-4/5 Technical Documentation Page - https://codepen.io/birnayt/pen/ExVKGeY
-
-5/5 Personal Portfolio Page - https://codepen.io/birnayt/pen/GRpqNVP
 
