@@ -14,10 +14,10 @@ Survey Form  - https://codepen.io/birnayt/pen/gOaPzBe
 <img src="responsive-web-design/Screenshot_2020-06-05 FCC Survey Form.png" alt="Survey Form">
 <hr>
 Tribute Page - https://codepen.io/birnayt/pen/gOaPzBe
-<img src="responsive-web-design/responsive-web-design/Screenshot_2020-06-05 Carl Friedrich Gauss.png alt="Gauss Tribute Page">                                                                                                
+<img src="responsive-web-design/responsive-web-design/Screenshot_2020-06-05 Carl Friedrich Gauss.png" alt="Gauss Tribute Page">                                                                                                
 <hr>
 Technical Documentation Page - https://codepen.io/birnayt/pen/ExVKGeY
-<img src="responsive-web-design/Screenshot_2020-06-05 JS Documentation.png> alt="JS Documentation">
+<img src="responsive-web-design/Screenshot_2020-06-05 JS Documentation.png"> alt="JS Documentation">
                                                                                             
                                                                               
 
